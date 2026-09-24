@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>OPTIMS Updates</title>
+    <link>https://kawsar07.github.io/optims/appcast.xml</link>
+    <description>OPTIMS app update feed</description>
+
+    <!-- ANDROID -->
+    <item>
+      <title>Version 1.0.1</title>
+      <description>
+        - Real-time utility and energy monitoring improvements
+        - Interactive dashboard charts enhancement
+        - Bug fixes and performance optimizations
+        - Enhanced security and stability
+      </description>
+      <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+      <enclosure
+        url="https://play.google.com/store/apps/details?id=com.scube.optims"
+        sparkle:version="1.0.1"
+        sparkle:shortVersionString="1.0.1"
+        sparkle:os="android"
+        type="application/octet-stream"
+        length="1"/>
+    </item>
+
+    <!-- iOS -->
+    <item>
+      <title>Version 1.0.1</title>
+      <description>
+        - Real-time utility and energy monitoring improvements
+        - Interactive dashboard charts enhancement
+        - Bug fixes and performance optimizations
+        - Enhanced security and stability
+      </description>
+      <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
+      <enclosure
+        url="https://apps.apple.com/app/optims/id6756875745"
+        sparkle:version="1.0.1"
+        sparkle:shortVersionString="1.0.1"
+        sparkle:os="ios"
+        type="application/octet-stream"
+        length="1"/>
+    </item>
+
+  </channel>
+</rss>
