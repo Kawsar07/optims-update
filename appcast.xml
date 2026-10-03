@@ -27,7 +27,7 @@
 
     <!-- iOS -->
     <item>
-      <title>Version 1.0.2</title>
+      <title>Version 1.0.4</title>
       <description>
         - Real-time utility and energy monitoring improvements
         - Interactive dashboard charts enhancement
@@ -37,8 +37,8 @@
       <pubDate>Thu, 24 Sep 2026 12:00:00 +0000</pubDate>
       <enclosure
         url="https://apps.apple.com/app/optims/id6756875745"
-        sparkle:version="1.0.2"
-        sparkle:shortVersionString="1.0.2"
+        sparkle:version="1.0.4"
+        sparkle:shortVersionString="1.0.4"
         sparkle:os="ios"
         type="application/octet-stream"
         length="1"/>
